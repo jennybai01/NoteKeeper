@@ -11,4 +11,4 @@ Future steps:
 - incorporate a SQL database (sqlite?)
 - prettier UI
 - more advanced Tkinter functions for user interaction
-- way way in the future: implement as a desktop app/website/mobile app
+- way way in the future: implement as a desktop/webs/mobile app
