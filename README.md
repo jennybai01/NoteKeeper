@@ -1,4 +1,4 @@
-# NoteKeeper-1.0
+# NoteKeeper
 Note-taking app with an authentication system.
 
 What I learned:
